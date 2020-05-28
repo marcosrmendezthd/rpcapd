@@ -286,6 +286,10 @@ struct rpcap_udpstr_header {
     uint32_t seqno;
 };
 
+#ifndef UINT16_MAX
+#define UINT16_MAX 65535
+#endif
+
 #define UDPSTR_FIRSTHDR_NONE    UINT16_MAX
 
 // Messages field coding
