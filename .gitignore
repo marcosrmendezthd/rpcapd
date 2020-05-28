@@ -8,3 +8,4 @@ wpcap/libpcap/rpcapd/rpcapd
 wpcap/libpcap/rpcapd/rpcapd.exe
 wpcap/libpcap/rpcapd/rpcapd-dist/rpcapd-64bit-linux
 install-rpcapd.sh
+.idea
